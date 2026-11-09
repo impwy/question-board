@@ -1,0 +1,8 @@
+{
+  "name": "question-board",
+  "version": "0.1.0",
+  "description": "Claude가 올린 질문 옆에 바로 답을 적는 질문 보드 pane. 답은 세션이 바뀌어도 남는다.",
+  "author": { "name": "yong" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

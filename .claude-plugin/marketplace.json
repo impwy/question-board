@@ -1,0 +1,11 @@
+{
+  "name": "question-board",
+  "owner": { "name": "impwy" },
+  "plugins": [
+    {
+      "name": "question-board",
+      "source": "./",
+      "description": "Claude가 올린 질문 옆에 바로 답을 적는 질문 보드 pane. 답은 세션이 바뀌어도 남는다."
+    }
+  ]
+}
