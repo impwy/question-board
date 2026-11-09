@@ -1,6 +1,9 @@
 {
   "name": "question-board",
-  "owner": { "name": "impwy" },
+  "owner": {
+    "name": "impwy"
+  },
+  "description": "question-board mod 하나를 담은 marketplace. Claude의 질문 옆에 답을 적는 pane.",
   "plugins": [
     {
       "name": "question-board",
